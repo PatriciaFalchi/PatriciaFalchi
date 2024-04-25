@@ -1,7 +1,8 @@
 ## Oi, me chamo Patricia Falchi 👋
 
 - Estou em transição de carreira para a área de tecnologia.
-- Iniciei os meus estudos em programação com Python e sigo buscando aprendizado constante.
+- Meu primeiro "Hello Word" foi em Python e sigo buscando aprendizado constante.
+
 <br>
 </br>
 
