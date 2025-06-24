@@ -1,6 +1,5 @@
 ## Oi, me chamo Patricia Falchi 👋
 
-- Estou em transição de carreira para a área de análise de dados.
 - Apaixonada por tecnologia.
 - Meu primeiro "Hello Word" foi em Python e sigo buscando aprendizado constante.
 
