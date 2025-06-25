@@ -1,7 +1,5 @@
-## Oi, me chamo Patricia Falchi 👋
+## Oi, me chamo Patricia Falchi 
 
-- Apaixonada por tecnologia.
-- Meu primeiro "Hello Word" foi em Python e sigo buscando aprendizado constante.
 
 <br>
 </br>
