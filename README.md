@@ -10,6 +10,7 @@
 <div>
 <img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img loading="lazy" src="https://img.shields.io/badge/MySQL-00C7B7?style=for-the-badge&logo=mysql&logoColor=white">
+<img loading="lazy" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img loading="lazy" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
