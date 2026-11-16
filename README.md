@@ -1,4 +1,4 @@
-# Oi, eu sou a Patrícia Andressa da Silva Falchi 👋
+# Oi, eu sou a Patrícia Falchi 👋
 
 **Analista de dados em transição, vinda da área jurídica.** Uso Python, SQL e Power BI para transformar dados públicos em respostas claras. Minha experiência no Direito me ajuda a entender o contexto por trás dos números.
 
